@@ -1,7 +1,7 @@
 <h1>Projeto Fokus - Alura</h1>
 
 <h2>📃 Sobre</h2>
-<p>Aplicação de temporizador estilo Pomodoro</p>
+<p>Aplicação de temporizador estilo Pomodoro e uma lista de tarefas</p>
 <p>Projeto realizado durante o curso "JavaScript: manipulando elementos no DOM" da Alura</p>
 
 ## 🚀 Tecnologias
